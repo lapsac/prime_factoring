@@ -1,5 +1,3 @@
-// Lauma Gailite 221RDB389 2. grupa
-
 #include <iostream>
 #include <cmath>
 
